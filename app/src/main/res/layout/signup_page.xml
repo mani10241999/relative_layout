@@ -5,12 +5,6 @@
     android:orientation="vertical"
     >
 
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-
-
-        android:text="WELCOM"/>
     <EditText
         android:background="@drawable/shape"
         android:inputType="text"
@@ -49,7 +43,7 @@
         android:layout_height="70dp"
         android:hint="sign up"/>
 
-    <EditText
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"

@@ -1,19 +1,17 @@
 package com.example.myapp;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.constraintlayout.widget.ConstraintLayout;
-
-import android.hardware.camera2.CameraManager;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    @Override
+
+
+
+@Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.relativelayout);
-
-
+        setContentView(R.layout.activity_main);
 
 
     }
